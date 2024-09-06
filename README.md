@@ -1,0 +1,1 @@
+# API GERA SENHA
